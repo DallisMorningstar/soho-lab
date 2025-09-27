@@ -15,11 +15,11 @@ It is built from repurposed hardware to practice home networking and to host ser
 - **NAS (Network Attached Storage)** — shared network drive for file storage
 
 ## Repo Structure
-- `architecture/` → network diagrams & topology
-- `configs/` → configuration files or server settings
-- `experiments/` → step-by-step guides (e.g., setting up Minecraft server, enabling NAS shares)
-- `inventory/` → hardware & software used
-- `notes/` → troubleshooting tips and observations
+- `architecture/` -> network diagrams & topology
+- `configs/` -> configuration files or server settings
+- `experiments/` -> step-by-step guides (e.g., setting up Minecraft server, enabling NAS shares)
+- `inventory/` -> hardware & software used
+- `notes/` -> troubleshooting tips and observations
 
 ## Future Roadmap
 - Add backup system for NAS data
