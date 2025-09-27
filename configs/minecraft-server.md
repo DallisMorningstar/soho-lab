@@ -2,8 +2,8 @@
 
 ## Hardware
 - Old repurposed desktop
-- OS: (fill in, e.g., Ubuntu 22.04 / Windows 10 Pro)
-- RAM: (fill in)
+- OS: Windows 10 PRO
+- RAM: 16 GB DDR4 RAM
 - Extra drive for NAS storage
 
 ## Minecraft Setup
